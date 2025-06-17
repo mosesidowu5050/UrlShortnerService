@@ -11,9 +11,9 @@ import java.time.LocalDateTime;
 public class UrlShortner {
 
     @Id
-    private String shortKey;
+    private String shortUrlId;
     private String longUrl;
     private LocalDateTime createdAt;
-    private int clickCount;
+    private int clickCounter;
 
 }
