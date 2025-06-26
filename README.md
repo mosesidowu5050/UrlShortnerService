@@ -50,7 +50,7 @@ POST /api/v1/shorten
 
 
 # Clone repository
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/mosesidowu5050/url-shortener.git
 cd url-shortener
 
 # Build and run
@@ -68,7 +68,7 @@ cd url-shortener
  Add Swagger/OpenAPI documentation
 
  Dockerize the project
-
+```
 👨‍💻 Author
 Idowu Moses Babatunde @mosesidowu5050
 
