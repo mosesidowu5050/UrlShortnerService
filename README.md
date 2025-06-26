@@ -56,7 +56,7 @@ cd url-shortener
 # Build and run
 ./mvnw clean install
 ./mvnw spring-boot:run
-
+```
 
 📌 To-Do / Improvements
  Add custom aliases
@@ -68,7 +68,7 @@ cd url-shortener
  Add Swagger/OpenAPI documentation
 
  Dockerize the project
-```
+
 👨‍💻 Author
 Idowu Moses Babatunde @mosesidowu5050
 
